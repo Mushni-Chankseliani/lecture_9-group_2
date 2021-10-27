@@ -37,6 +37,14 @@
     .container {
         flex-wrap: wrap;
     }
+
+    .burger-bar {
+        display: block;
+    }
+
+    .navbar {
+        display: none;
+    }
 }
 
 /* @media (max-width: 1000px) {
